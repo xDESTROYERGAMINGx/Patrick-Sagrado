@@ -1,0 +1,82 @@
+body  {
+    background-image: url("vivid-blurred-colorful-background.jpg");
+    background-repeat: no-repeat;
+    background-color: #58a2e7;
+    height: 100%;
+  }
+
+.pic{
+    width: 100%;
+}
+
+.general{
+    background-color: #dddddd73;
+    padding: 8px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    border: 3px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+  
+.other{
+    font-weight: bold;
+}
+
+#pictureborder {
+    background-color: white;
+    margin-top: 7.5%;
+    margin-left: 10%;
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    width: 500px;
+    height: 650px;
+    float: left;
+}
+
+#generalinformation{
+    background-color: white;
+    margin-top: 7.5%;
+    margin-left: 2%;
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    width: 1000px;
+    float: left;
+}
+
+#otherinformation{
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 2%;
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    width: 1000px;
+    float: left;
+}
+
+.other{
+    background-color: #dddddd73;
+    padding: 8px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p{
+    line-height: 1.4;
+}

@@ -1,0 +1,72 @@
+.pic{
+    position: relative;
+    width: 135%;
+    max-width: fit-content;
+    margin: auto;
+    display: flex;
+    right: 55px;
+    border: 3px solid black;
+}
+
+.Picture {
+    width: 300px;
+    border: 3px solid white;
+    margin: 1px;
+    position: relative;
+
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    width: 300px;
+    border: 3px solid black;
+    padding: 50px;
+    margin: 20px;
+    text-align: justify;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.Name{
+    padding-top: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    height: 20px;
+    position: relative;
+    border: 2px solid white;
+}
+  
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    left: 47%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align:center;
+}
+
+.pic1{
+    position: absolute;
+    width: 32px;
+    right: 53%;
+    top: 94.5%;
+}
+
+button{
+    background-color: #4267B2;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
